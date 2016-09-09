@@ -1,0 +1,16 @@
+C:\Temp\test\readpkg\readpkg\bin\Debug\readpkg.exe
+C:\Temp\test\readpkg\readpkg\bin\Debug\readpkg.pdb
+C:\Temp\test\readpkg\readpkg\obj\Debug\readpkg.csprojResolveAssemblyReference.cache
+C:\Temp\test\readpkg\readpkg\obj\Debug\readpkg.Form1.resources
+C:\Temp\test\readpkg\readpkg\obj\Debug\readpkg.Properties.Resources.resources
+C:\Temp\test\readpkg\readpkg\obj\Debug\readpkg.csproj.GenerateResource.Cache
+C:\Temp\test\readpkg\readpkg\obj\Debug\readpkg.exe
+C:\Temp\test\readpkg\readpkg\obj\Debug\readpkg.pdb
+C:\Dropbox\Projects\Read_pkg_depends\readpkg\obj\Debug\readpkg.exe
+C:\Dropbox\Projects\Read_pkg_depends\readpkg\obj\Debug\readpkg.pdb
+C:\Dropbox\Projects\Read_pkg_depends\readpkg\bin\Debug\readpkg.exe
+C:\Dropbox\Projects\Read_pkg_depends\readpkg\bin\Debug\readpkg.pdb
+C:\Dropbox\Projects\Read_pkg_depends\readpkg\obj\Debug\readpkg.csprojResolveAssemblyReference.cache
+C:\Dropbox\Projects\Read_pkg_depends\readpkg\obj\Debug\readpkg.Form1.resources
+C:\Dropbox\Projects\Read_pkg_depends\readpkg\obj\Debug\readpkg.Properties.Resources.resources
+C:\Dropbox\Projects\Read_pkg_depends\readpkg\obj\Debug\readpkg.csproj.GenerateResource.Cache
